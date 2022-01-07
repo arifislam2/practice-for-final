@@ -3,13 +3,18 @@ body{
 font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
+
+}
+.border{
+    border-left: seagreen;
 }
 .blue-color{
     color: blue;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width:50%;
@@ -26,3 +31,14 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
 }
+fotter p{
+    text-align: center;
+    background-color: burlywood;
+}
+#id{
+    font-style: italic;
+    font-weight: 700;
+}
+
+
+
