@@ -1,0 +1,28 @@
+body{
+    font-family: 'Domine', serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.blue-color{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    padding-left:10%;
+}
+.half-width img{
+    width:70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: darkcyan;
+    color: yellow;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
